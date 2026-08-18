@@ -1,0 +1,9 @@
+Artificial intelligence is changing many areas of modern technology.
+Machine learning allows computers to learn patterns from data.
+Natural language processing helps computers understand human language.
+AI systems are used in education, healthcare, transportation, and finance.
+Text summarization is an important natural language processing application.
+It helps users understand long documents in less time.
+Extractive summarization selects important sentences from the original document.
+TF-IDF can be used to measure the importance of words in different sentences.
+The most important sentences can then be combined to create a shorter summary.

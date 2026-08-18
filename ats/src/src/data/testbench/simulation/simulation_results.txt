@@ -1,0 +1,50 @@
+========================================
+          AI TEXT SUMMARIZER
+========================================
+
+INPUT TEXT:
+
+Artificial intelligence is changing many
+areas of modern technology. Machine learning
+allows computers to learn patterns from data.
+Natural language processing helps computers
+understand human language. AI systems are used
+in education, healthcare, transportation and
+finance. Text summarization is an important
+natural language processing application. It
+helps users understand long documents in less
+time.
+
+----------------------------------------
+
+PROCESSING:
+
+1. Sentence Segmentation
+2. Text Preprocessing
+3. TF-IDF Calculation
+4. Sentence Scoring
+5. Important Sentence Selection
+
+----------------------------------------
+
+OUTPUT SUMMARY:
+
+Artificial intelligence is changing many
+areas of modern technology.
+
+Natural language processing helps computers
+understand human language.
+
+Text summarization is an important natural
+language processing application.
+
+----------------------------------------
+
+Original Sentences : 8
+Summary Sentences   : 3
+
+Compression Achieved: YES
+
+========================================
+      SIMULATION COMPLETED
+========================================
